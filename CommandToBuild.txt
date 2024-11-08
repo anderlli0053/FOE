@@ -1,0 +1,1 @@
+nativefier "https://en0.forgeofempires.com/page/" --icon "favicon.ico" -n "Forge Of Empires"
